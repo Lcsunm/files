@@ -8,7 +8,7 @@
         "112": "https://storage.kaiostech.com/v3.0/files/app/S/xUvWD_E5JoKfcQiGfD1xlg0sY5KIsJvOzs8822/ICON_IMAGE.png"
     },
     "name": "KaiNews",
-    "package_path": "https://raw.githubusercontent.com/Lcsunm/files/main/kaios.news.net/application.zip",
+    "package_path": "https://raw.githubusercontent.com/Lcsunm/files/main/kaios.news.net/application.zip?t=1",
     "size": 1536342,
     "packaged_size": 503453,
     "type": "privileged",
@@ -163,5 +163,5 @@
     "dependencies": { "ads-sdk": "1.4.5" },
     "category_list": [50, 400],
     "paid": false,
-    "installs_allowed_from":false
+    "installs_allowed_from": false
 }
