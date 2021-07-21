@@ -159,5 +159,5 @@
     "chrome": { "statusbar": "overlap" },
     "origin": "app://kaios.news.net",
     "dependencies": { "ads-sdk": "1.4.5" },
-    "installs_allowed_from": false
+    "installs_allowed_from": ["*"]
 }
