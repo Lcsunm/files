@@ -162,5 +162,6 @@
     "version": "2.2.9",
     "dependencies": { "ads-sdk": "1.4.5" },
     "category_list": [50, 400],
-    "paid": false
+    "paid": false,
+    "installs_allowed_from":false
 }
