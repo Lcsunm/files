@@ -8,6 +8,7 @@
         "112": "https://storage.kaiostech.com/v3.0/files/app/S/xUvWD_E5JoKfcQiGfD1xlg0sY5KIsJvOzs8822/ICON_IMAGE.png"
     },
     "name": "KaiNews",
+    "origin":"app://kaios.news.net",
     "package_path": "https://raw.githubusercontent.com/Lcsunm/files/main/kaios.news.net/application.zip",
     "size": 1536342,
     "packaged_size": 503453,
